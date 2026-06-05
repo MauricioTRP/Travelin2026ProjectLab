@@ -1,4 +1,5 @@
 package com.softserveacademy.core.presentation.design_system
 
-class Color {
-}
+import android.graphics.Color
+
+val primaryColor = Color("HEXVALUE")
